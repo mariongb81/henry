@@ -2,6 +2,12 @@ h1{
     color: red;
 }
 
+body{
+    display: flexbox;
+    justify-content: center;
+    align-content: center;
+}
+
 img{
     width: 400px;
 }
